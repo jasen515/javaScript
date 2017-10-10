@@ -36,7 +36,7 @@ h2.title_name small {
 /* CONTAINER */
 .littleBoxes{
     width: 380px;
-    margin: 100px auto 380px auto;
+    margin: 100px auto 190px auto;
     position: relative;
 }
 .littleBoxes div{
@@ -93,7 +93,7 @@ h2.title_name small {
     background-repeat:no-repeat;
 }
 .bg1{
-    background-image:url(../images/1.jpg);    
+    background-image:url(../images/1.jpg);
 }
 .bg2{
     background-image:url(../images/2.jpg);
